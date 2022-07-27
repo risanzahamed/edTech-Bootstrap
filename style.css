@@ -1,0 +1,16 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, a{
+    font-family: 'Poppins';
+}
+
+p{
+    font-family: 'Roboto';
+    font-weight: 400;
+}
+.btn{
+    font-family: 'Poppins';
+}
