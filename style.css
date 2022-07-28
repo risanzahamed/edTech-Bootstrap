@@ -13,7 +13,7 @@ h1, a{
         font-weight: 900;
         margin-top: 50px;
       }
-}
+
 
 .md-caption{
     font-size: 20px;
@@ -23,9 +23,9 @@ p{
     font-family: 'Poppins';
     font-weight: 400;
     font-size: 14px;
-    l
-   
+     
 }
+
 .btn{
     font-family: 'Poppins';
 }
