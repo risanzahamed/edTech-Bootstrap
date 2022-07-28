@@ -7,9 +7,24 @@ h1, a{
     font-family: 'Poppins';
 }
 
+.caption{
+        font-family: 'Poppins';
+        font-size: calc(100% + 2vw + 1vh);
+        font-weight: 900;
+        margin-top: 10px;
+      }
+}
+
+.md-caption{
+    font-size: 20px;
+}
+
 p{
-    font-family: 'Roboto';
+    font-family: 'Poppins';
     font-weight: 400;
+    font-size: 14px;
+    l
+   
 }
 .btn{
     font-family: 'Poppins';
