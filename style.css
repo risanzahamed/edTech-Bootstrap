@@ -9,9 +9,9 @@ h1, a{
 
 .caption{
         font-family: 'Poppins';
-        font-size: calc(100% + 2vw + 1vh);
+        font-size: calc(100% + 1vw + 1vh);
         font-weight: 900;
-        margin-top: 10px;
+        margin-top: 50px;
       }
 }
 
